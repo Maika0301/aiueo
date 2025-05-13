@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Windows OS バージョン履歴</title>
   <h1>Windows OS バージョン履歴</h1>
 
   <table>
