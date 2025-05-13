@@ -4,42 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Windows OS バージョン履歴</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-image: url('https://partition.aomei.jp/screenshot/pro/windows-7-blue-screen-after-ssd-install/blue-screen.png');
-      background-size: cover; /* 背景画像が画面いっぱいに広がるようにする */
-      background-position: center center; /* 画像の表示位置を中央に */
-      color: white; /* テキスト色を白に変更 */
-    }
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-    table {
-      width: 100%;
-      margin-top: 20px;
-      border-collapse: collapse;
-      background-color: rgba(255, 255, 255, 0.8); /* 背景を透過させる */
-      border: 1px solid #ddd;
-    }
-    th, td {
-      padding: 12px;
-      text-align: left;
-      border: 1px solid #ddd;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
-  </style>
-</head>
-<body>
-
   <h1>Windows OS バージョン履歴</h1>
 
   <table>
