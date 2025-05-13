@@ -9,7 +9,10 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 20px;
-      background-color: #f4f4f4;
+      background-image: url('https://partition.aomei.jp/screenshot/pro/windows-7-blue-screen-after-ssd-install/blue-screen.png');
+      background-size: cover; /* 背景画像が画面いっぱいに広がるようにする */
+      background-position: center center; /* 画像の表示位置を中央に */
+      color: white; /* テキスト色を白に変更 */
     }
     h1 {
       text-align: center;
@@ -19,7 +22,7 @@
       width: 100%;
       margin-top: 20px;
       border-collapse: collapse;
-      background-color: #fff;
+      background-color: rgba(255, 255, 255, 0.8); /* 背景を透過させる */
       border: 1px solid #ddd;
     }
     th, td {
